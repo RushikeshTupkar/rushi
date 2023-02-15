@@ -3,7 +3,7 @@
 - Intellij
 - JDK-18
 - Postamn
-- **I have used MVC architecture to create this application.**
+- I have used MVC architecture to create this application.
 - Model
   -Event class
   -Student class
